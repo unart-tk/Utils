@@ -1,0 +1,2 @@
+virun:
+	runbang foo.sh

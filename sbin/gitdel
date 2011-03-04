@@ -1,0 +1,23 @@
+#!/bin/sh
+
+
+# gitdel - fix not removed stuff
+# ==============================
+#
+#    by: ben, untar.org
+#    in: bash, utils, git
+#
+# Caution: this evil - use it with care. When you did rm -f file.txt, instead of git rm -f file.txt, wipe cleans up.'
+#
+set -u 
+#  set -e
+
+die (){ echo >&2 "$@"; exit 1; }
+
+usage(){ die "Usage - $1"; }
+
+[ $# = 1 ] || { usage "del <file>"; }
+[ -d "$1" ] ||  { die "Error: target dir not valid."; }
+c=`pwd` && cd "$1" && n=`pwd`
+gl='git.log' && rm -f $gl && git commit > $gl
+( grep '#\s*deleted' "$n/$gl" ) |  sed 's/#\s*deleted:\s*//g' | xargs -I F -- git rm F 

@@ -1,0 +1,250 @@
+debconf-english - small footprint English-only debconf
+foo2zjs - Support for printing to ZjStream-based printers
+foomatic-db - OpenPrinting printer support - database
+foomatic-db-engine - OpenPrinting printer support - programs
+foomatic-filters - OpenPrinting printer support - filters
+libart-2.0-2 - Library of functions for 2D graphics - runtime files
+libart-2.0-dev - Library of functions for 2D graphics - development files
+libezmorph-java - Java library for transforming an Object to another Object
+libparams-util-perl - Perl extension for simple stand-alone param checking functions
+libpod-spell-perl - formatter to easy checking the spelling of POD
+libqedje-dev - UI interface library which separates design from logic
+libqedje0a - UI interface library which separates design from logic
+libsub-uplevel-perl - module to spoof the Perl call stack
+libxcb-composite0 - X C Binding, composite extension
+libxcb-composite0-dbg - X C Binding, composite extension, debugging symbols
+libxcb-composite0-dev - X C Binding, composite extension, development files
+libxcb-damage0 - X C Binding, damage extension
+libxcb-damage0-dbg - X C Binding, damage extension, debugging symbols
+libxcb-damage0-dev - X C Binding, damage extension, development files
+libxcb-dpms0 - X C Binding, dpms extension
+libxcb-dpms0-dbg - X C Binding, dpms extension, debugging symbols
+libxcb-dpms0-dev - X C Binding, dpms extension, development files
+libxcb-dri2-0 - X C Binding, dri2 extension
+libxcb-dri2-0-dbg - X C Binding, dri2 extension, debugging symbols
+libxcb-dri2-0-dev - X C Binding, dri2 extension, development files
+libxcb-glx0 - X C Binding, glx extension
+libxcb-glx0-dbg - X C Binding, glx extension, debugging symbols
+libxcb-glx0-dev - X C Binding, glx extension, development files
+libxcb-randr0 - X C Binding, randr extension
+libxcb-randr0-dbg - X C Binding, randr extension, debugging symbols
+libxcb-randr0-dev - X C Binding, randr extension, development files
+libxcb-record0 - X C Binding, record extension
+libxcb-record0-dbg - X C Binding, record extension, debugging symbols
+libxcb-record0-dev - X C Binding, record extension, development files
+libxcb-render0 - X C Binding, render extension
+libxcb-render0-dbg - X C Binding, render extension, debugging symbols
+libxcb-render0-dev - X C Binding, render extension, development files
+libxcb-res0 - X C Binding, res extension
+libxcb-res0-dbg - X C Binding, res extension, debugging symbols
+libxcb-res0-dev - X C Binding, res extension, development files
+libxcb-screensaver0 - X C Binding, screensaver extension
+libxcb-screensaver0-dbg - X C Binding, screensaver extension, debugging symbols
+libxcb-screensaver0-dev - X C Binding, screensaver extension, development files
+libxcb-shape0 - X C Binding, shape extension
+libxcb-shape0-dbg - X C Binding, shape extension, debugging symbols
+libxcb-shape0-dev - X C Binding, shape extension, development files
+libxcb-shm0 - X C Binding, shm extension
+libxcb-shm0-dbg - X C Binding, shm extension, debugging symbols
+libxcb-shm0-dev - X C Binding, shm extension, development files
+libxcb-sync0 - X C Binding, sync extension
+libxcb-sync0-dbg - X C Binding, sync extension, debugging symbols
+libxcb-sync0-dev - X C Binding, sync extension, development files
+libxcb-xevie0 - X C Binding, xevie extension
+libxcb-xevie0-dbg - X C Binding, xevie extension, debugging symbols
+libxcb-xevie0-dev - X C Binding, xevie extension, development files
+libxcb-xf86dri0 - X C Binding, xf86dri extension
+libxcb-xf86dri0-dbg - X C Binding, xf86dri extension, debugging symbols
+libxcb-xf86dri0-dev - X C Binding, xf86dri extension, development files
+libxcb-xfixes0 - X C Binding, xfixes extension
+libxcb-xfixes0-dbg - X C Binding, xfixes extension, debugging symbols
+libxcb-xfixes0-dev - X C Binding, xfixes extension, development files
+libxcb-xinerama0 - X C Binding, xinerama extension
+libxcb-xinerama0-dbg - X C Binding, xinerama extension, debugging symbols
+libxcb-xinerama0-dev - X C Binding, xinerama extension, development files
+libxcb-xprint0 - X C Binding, xprint extension
+libxcb-xprint0-dbg - X C Binding, xprint extension, debugging symbols
+libxcb-xprint0-dev - X C Binding, xprint extension, development files
+libxcb-xtest0 - X C Binding, xtest extension
+libxcb-xtest0-dbg - X C Binding, xtest extension, debugging symbols
+libxcb-xtest0-dev - X C Binding, xtest extension, development files
+libxcb-xv0 - X C Binding, xv extension
+libxcb-xv0-dbg - X C Binding, xv extension, debugging symbols
+libxcb-xv0-dev - X C Binding, xv extension, development files
+libxcb-xvmc0 - X C Binding, xvmc extension
+libxcb-xvmc0-dbg - X C Binding, xvmc extension, debugging symbols
+libxcb-xvmc0-dev - X C Binding, xvmc extension, development files
+libxcb1 - X C Binding
+libxcb1-dbg - X C Binding, debugging symbols
+libxcb1-dev - X C Binding, development files
+libxstream-java - Java library to serialize objects to XML and back again
+m2300w - Driver for the Minolta magicolor 2300W/24000W color laser printers
+min12xxw - Printer driver for KonicaMinolta PagePro 1[234]xxW
+openprinting-ppds - OpenPrinting printer support - PostScript PPD files
+python-xcbgen - X C Binding - protocol binding generator
+texlive-bibtex-extra - TeX Live: Extra BibTeX styles
+texlive-latex-base - TeX Live: Basic LaTeX packages
+texlive-latex-extra - TeX Live: LaTeX supplementary packages
+ttf-wqy-microhei - A droid derived Sans-Seri style CJK font
+xcb-proto - X C Binding - protocol descriptions
+apt-transport-debtorrent - an APT transport for communicating with DebTorrent
+aspell-ar - Arabic dictionary for aspell
+blosxom - light, feature-packed weblog app with plugin extensibility
+burgerspace - Avoid evil foodstuffs and make burgers
+bygfoot - soccer (football) manager game featuring the most important European leagues
+cclive - lightweight command line video extraction tool
+cdecl - Turn English phrases to C or C++ declarations
+chaksem - LaTeX class for presentations
+clipf - command line minimalistic personal finance manager
+cone - COnsole Newsreader and Emailer
+courier-imap - Courier mail server - IMAP server
+cultivation - game about the interactions within a gardening community
+darkstat - a network traffic analyzer
+dav-text - A minimalist ncurses-based text editor
+deskbar-applet - universal search and navigation bar for GNOME
+display-dhammapada - Dhammapada is a Buddhist scripture which contains sayings of Buddha
+fakeroot-ng - Gives a fake root environment
+fgetty - very small, efficient, console-only getty and login
+fkiss - Implementation of KISekae Set System (KISS) for the X Window System
+flamerobin - graphical database administration tool for Firebird DBMS
+flight-of-the-amazon-queen - a fantasy adventure game
+flip - convert text file line endings between Unix and DOS formats
+foobillard - a 3D billiards game using OpenGL
+fookb-plainx - An Xkb state indicator -- plain X version.
+fookb-wmaker - An Xkb state indicator -- WindowMaker version.
+foomatic-gui - GNOME interface for configuring the Foomatic printer filter system
+foremost - Forensics application to recover data
+fvwm-icons - XPMs icons from fvwm development site
+gambas2-gb-gtk-ext - The Gambas extended gtk GUI component
+gimmix - graphical music player daemon (MPD) client using GTK+2
+gmountiso - This is Gmountiso, a PyGTK GUI to mount your cd images
+gnome-games - games for the GNOME desktop
+gnurobots - Program a robot to explore a world
+gpe-soundserver - start and stop the GPE sound service
+hannah - pacman-like game, child oriented
+hannah-data - pacman-like game, child oriented - data files
+honeyd - Small daemon that creates virtual hosts simulating their services and behaviour
+ifplugd - configuration daemon for ethernet devices
+ifupdown-scripts-zg2 - Zugschlus' interface scripts for ifupdown's manual method
+infon-server - Program bugs to compete for food and survival - Server
+infon-viewer - Program bugs to compete for food and survival - GUI
+integrit - A file integrity verification program
+kicad - Electronic schematic and PCB design software
+klone - embedded web application development framework
+komi - A single player arcade game with Komi the Space Frog!
+latex2html - LaTeX to HTML translator
+libacexml-5.6.3 - ACE SAX based XML parsing library
+libapache2-mod-layout - Apache web page content wrapper
+libargtable2-0 - A library for parsing GNU style command line arguments
+libargtable2-dev - A library for parsing GNU style command line arguments
+libargtable2-docs - A library for parsing GNU style command line arguments
+libcherokee-mod-geoip - Cherokee web server - GeoIP-based IP resolution functionality
+libcherokee-mod-rrd - Cherokee web server - RRDtool based information collector
+libcimcclient0 - small footprint CIM client libraries
+libcimcclient0-dev - small footprint CIM client development headers
+libclass-accessor-classy-perl - Perl module providing minimalist, fast accessors
+libconfig++8-dev - parsing and manipulation of structured config files(C++ development)
+libconfig-file-perl - Parses simple configuration files
+libconfig-model-itself-perl - graphical model editor for Config::Model
+libconfig8-dev - parsing and manipulation of structured config files(development)
+libcoveb-dev - high speed low memory footprint priority queue data structure lib
+libdbd-mock-perl - Mock database driver for testing
+libexporter-lite-perl - lightweight subset of Exporter
+libextutils-f77-perl - Simple interface to F77 libs
+libgetopt++1 - C++ library for command line parsing
+libghc6-pandoc-dev - general markup converter
+libghc6-pandoc-doc - general markup converter
+libhtml-formattext-withlinks-perl - Perl module to convert HTML to text with links as footnotes
+libhtml-mason-perl - HTML::Mason Perl module
+libhtml-mason-perl-doc - HTML::Mason documentation
+libhtml-mason-perl-examples - HTML::Mason example setup
+liblatex-table-perl - Perl extension for the automatic generation of LaTeX tables
+libmatrixssl1.8 - small SSL library optimized for embedded systems
+libmatrixssl1.8-dev - small SSL library optimized for embedded systems (development files)
+libmatrixssl1.8-doc - small SSL library optimized for embedded systems (documentation)
+libmcs1 - Abstraction library to store configuration settings (BSD-licensed)
+libpath-class-perl - module for cross-platform path specification manipulation
+libpdf-create-perl - Perl module to create PDF files
+libregexp-optimizer-perl - optimizes regular expressions
+libtext-query-sql-perl - module for building queries for SQL databases
+libtext-simpletable-perl - Perl module for creating simple eyecandy ASCII Tables
+libtype-conv-camlp4-dev - support library for OCaml preprocessor type conversions
+libunittest++-dev - unit testing framework for c++, static library and headers
+libxmlbeans-java - Java library for accessing XML by binding it to Java types
+libyaml-appconfig-perl - manage configuration files with YAML and variable references
+lighttpd - A fast webserver with minimal memory footprint
+llgal - Command-line online gallery generator
+lxmusic - The minimalist music player for LXDE
+man2html - browse man pages in your web browser
+mediawiki-extensions - set of extensions for MediaWiki
+megahal - conversation simulator that can learn as you talk to it
+mgm - A highly configurable, very gaudy system load meter
+mined - Powerful text editor with extensive Unicode and CJK support
+miwm - minimalist window manager with virtual workspaces
+mlmmj - mail server independent mailing list manager
+mped - Minimum Profit, a programmer's text editor
+mysqltuner - high-performance MySQL tuning script
+ncmpc - ncurses-based audio player
+netscript-2.4 - Linux 2.4/2.6 router/firewall/VM host network config. system.
+netscript-2.4-upstart - Linux 2.4/2.6 router/firewall/VM host network config. system.
+netsed - The network packet altering stream editor
+netsurf - Small portable web browser with CSS and Unicode support
+nut-nutrition - dietary nutrition analysis software
+octave3.0-info - GNU Info documentation on the GNU Octave language (3.0 branch)
+octave3.2-info - GNU Info documentation on the GNU Octave language (3.2 branch)
+openstreetmap-map-icons-classic - Collection of map icons (classic set)
+openstreetmap-map-icons-scalable - Collection of map icons (scalable set)
+openstreetmap-map-icons-square - Collection of map icons (square set)
+oprofile-gui - system-wide profiler for Linux systems (GUI components)
+pandoc - general markup converter
+parcellite - lightweight GTK+ clipboard manager
+php-fpdf - PHP class to generate PDF files
+picocom - minimal dumb-terminal emulation program
+polygen - generator of random sentences from grammar definitions
+postgresql-8.4-pllua - Lua procedural language for PostgreSQL
+printconf - automatically configures USB and parallel printers with CUPS
+ptouch-driver - CUPS/Foomatic driver for Brother P-touch label printers
+pysycache-move-food - Food images for mouse move activities for PySyCache
+python-foolscap - object-capability-based RPC system for Twisted Python
+python-foomatic - Python interface to the Foomatic printer database
+python-markdown - text-to-HTML conversion library/tool
+qlix - Manage MTP devices
+qlix-dbg - Debugging information for the Qlix package
+radsecproxy - RADIUS protocol proxy supporting RadSec
+roxterm - Multi-tabbed GTK/VTE terminal emulator
+scalpel - A Frugal, High Performance File Carver
+snakefood - Python dependency grapher
+sshm - A command-line tool to manage your ssh servers
+sshpass - Non-interactive ssh password authentication
+strigi-daemon - fast indexing and searching tool for your personal data (daemon)
+swaks - SMTP command-line test tool
+swell-foop - Colored ball puzzle game
+t-prot - display filter for RFC822 messages
+tcpxtract - extracts files from network traffic based on file signatures
+tdiary-plugin - Plugins of tDiary to add functionalities
+thttpd - tiny/turbo/throttling HTTP server
+thttpd-util - tiny/turbo/throttling HTTP server (utilities)
+tinyscheme - Very small scheme implementation
+tinywm - tiny window manager
+ttf-lg-aboriginal - unicode fonts for North-American Aboriginal languages
+vilistextum - a HTML to text converter
+wsola-dev - header files for the embedded WSOLA algorithm
+xfmpc - graphical GTK+ MPD client
+xlassie - Dockable mail notifier w/ message count & POP3/APOP/IMAP support
+yapet - Yet Another Password Encryption Tool
+ypsilon - R6RS Scheme implementation with concurrent garbage collector
+foiltex - a collection of LaTeX files for making foils and slides
+hannah-foo2zjs - Graphical firmware downloader for the foo2zjs package
+mythzoneminder - view status and display footage recorded with zoneminder
+sfcb - Small Footprint CIM Broker
+sfcb-test - Small Footprint CIM Broker test tools
+tijmp - Profiler for Java to trace object and method timings
+apache2-mpm-worker - Apache HTTP Server - high speed threaded model
+apt-transport-https - APT https transport
+erlang-runtime-tools - Erlang/OTP runtime tracing/debugging tools
+foomatic-db-gutenprint - OpenPrinting printer support - database for Gutenprint printer drivers
+hpijs - HP Linux Printing and Imaging - gs IJS driver (hpijs)
+ijsgutenprint - inkjet server - Ghostscript driver for Gutenprint
+kdesnake - Snake race played against the computer
+lemonpos - Open Source point of sale for Linux
+openoffice.org-report-builder - OpenOffice.org extension for building database reports

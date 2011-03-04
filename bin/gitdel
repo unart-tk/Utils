@@ -1,0 +1,7 @@
+#!/bin/sh
+
+i=$HOME/bin/utils/lib/gitlib.sh
+
+[ -f "$i"   ] || { echo "Error: source not existing $i"; exit 1; }
+
+. "$i" && gitdel "$@"
